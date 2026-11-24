@@ -1,0 +1,37 @@
+Dual Licensing Notice
+=====================
+
+1. Manuscript & Documentation (CC-BY-4.0)
+-----------------------------------------
+All manuscripts, PDFs, LaTeX sources, and Markdown monographs in this repository
+(including UCSH_Theory_Manuscript.tex, UCSH_Theory_Manuscript.pdf, README.md,
+and files under docs/) are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
+
+2. Formal Verification Code & Scripts (MIT License)
+---------------------------------------------------
+All source code files in this repository (UCSHTheoryProofs.lean,
+verify_ucsh_z3_proofs.py, verify_ucsh_theory.py) are licensed under the MIT License:
+
+Copyright (c) 2026 The Authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

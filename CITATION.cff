@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or formal verification suite, please cite it as below."
+type: software
+title: "A Unified Framework for Wick-Krein Lorentzian Spectral Triples, Type II_infinity Crossed-Product Holography, and U_q(sl(2,C)) Group Field Theory Condensates (UCSH v3.0)"
+version: "3.0.0"
+date-released: "2026-11-24"
+repository-code: "https://github.com/Homiakus/UCSH_Theory"
+license: CC-BY-4.0
+authors:
+  - name: "Autonomous Mathematical Physics & Spectrum Frontier Research Group"
+keywords:
+  - "Noncommutative geometry"
+  - "Krein space spectral triples"
+  - "Von Neumann algebras Type II_infinity"
+  - "Takesaki-Witten crossed product"
+  - "Loop Quantum Gravity"
+  - "Group Field Theory condensate"
+  - "Quantum group U_q(sl(2,C))"
+  - "Cosmological constant problem"
+  - "Anomaly cancellation"
+  - "Lean 4 theorem prover"
+  - "Z3 SMT formal verification"
+abstract: >-
+  Unified Categorical-Spectral Holographic Field Theory (UCSH v3.0) synthesizing
+  noncommutative spectral geometry, algebraic QFT Type II_infinity crossed-product
+  holography, root-of-unity U_q(sl(2,C)) Group Field Theory condensates, and
+  differential K-cohomology, accompanied by machine-checked proofs in Lean 4,
+  Microsoft Z3 SMT, and Python.

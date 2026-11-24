@@ -1,0 +1,28 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Lean 4
+.lake/
+*.olean
+*.ilean
+*.trace
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+*.swp
+*~
